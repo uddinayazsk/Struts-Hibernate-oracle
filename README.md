@@ -1,4 +1,4 @@
-# Struts-Hibernate-oracle---
+# Struts-Hibernate-oracle---The project is in DupMyProj
 Anecdotes of the project---
 Facade design pattern was used
 User logs into the module using login page where struts call happens then using hibernate ORM user fetched data from oracle for username &
